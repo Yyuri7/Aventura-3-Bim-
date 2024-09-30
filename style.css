@@ -7,13 +7,14 @@ body {
     align-items: center;
     height: 700px;
     margin: 0;
-  font-size: 22px;
+  font-size: 28px;
 }
 
 button {
     background-color: #07253d;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
+ font-size: 28px;
 }
 
 .passo {
